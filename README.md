@@ -1,4 +1,4 @@
-# Dataproc_image_progessing
+# Dataproc_image_processing
 
 
 Cloud Dataproc is a Google Cloud Platform service for running Spark and Hadoop jobs. It is used for machine learning and big data processing. Cloud Dataproc automation helps you create clusters and manage them easily
